@@ -1,0 +1,19 @@
+{
+  "name": "node-hf-client",
+  "version": "1.0.0",
+  "description": "Hackforums JS API client",
+  "main": "node-hf-client.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "keywords": [
+    "hackforums",
+    "hf-client"
+  ],
+  "author": "newQuery",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
+  }
+}
